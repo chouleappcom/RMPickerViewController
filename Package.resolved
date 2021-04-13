@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RMActionController",
+        "repositoryURL": "https://github.com/chouleappcom/RMActionController.git",
+        "state": {
+          "branch": null,
+          "revision": "c2f9be681c159eefb2c6a42d9d2f5dbd2322e68a",
+          "version": "2.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
